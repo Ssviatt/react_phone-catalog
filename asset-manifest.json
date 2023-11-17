@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.305914f6.chunk.css",
-    "main.js": "./static/js/main.062efcf7.chunk.js",
-    "main.js.map": "./static/js/main.062efcf7.chunk.js.map",
+    "main.css": "./static/css/main.bcf0cb85.chunk.css",
+    "main.js": "./static/js/main.1b6abd0b.chunk.js",
+    "main.js.map": "./static/js/main.1b6abd0b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.48c83cad.chunk.js": "./static/js/2.48c83cad.chunk.js",
     "static/js/2.48c83cad.chunk.js.map": "./static/js/2.48c83cad.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.305914f6.chunk.css.map": "./static/css/main.305914f6.chunk.css.map",
+    "static/css/main.bcf0cb85.chunk.css.map": "./static/css/main.bcf0cb85.chunk.css.map",
     "static/js/2.48c83cad.chunk.js.LICENSE.txt": "./static/js/2.48c83cad.chunk.js.LICENSE.txt",
     "static/media/ArrowDown.0348019e.svg": "./static/media/ArrowDown.0348019e.svg",
     "static/media/ArrowLeft.6a118f27.svg": "./static/media/ArrowLeft.6a118f27.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.48c83cad.chunk.js",
-    "static/css/main.305914f6.chunk.css",
-    "static/js/main.062efcf7.chunk.js"
+    "static/css/main.bcf0cb85.chunk.css",
+    "static/js/main.1b6abd0b.chunk.js"
   ]
 }
